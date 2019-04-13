@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  the details of the origami You want
  (to pay here is my paypal information:...................)
 baseurl: "" # the subpath of your site, e.g. /belog
-url:"coolpedia.dev" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "coolpedia.dev" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
