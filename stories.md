@@ -7,8 +7,6 @@ layout: page
 permalink: /alternate_time_stories/
 ---
 
-
-
 # Prologue
 
 # Ok, only three more miles to walk through this blizzard until I reach the time machine. DANG IT!!! The GPS went down. Fortunately, I know the way. This snow is five feet thick! Good thing I have boots with a two feet radius. Ok, we are here, the bunker. It looks like an outhouse with a solar panel But don’t be fooled!  This place is a wasteland. I wish that the Antarctic was warmer. [access granted]. Boy that blizzard felt like the world was in a giant freezer!    
